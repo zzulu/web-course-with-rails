@@ -35,3 +35,8 @@
 
 ## 6주차
 - [18년 07월 09일 월](180709.md)
+
+
+## 참고
+- [GitHub 사용하기](GitHub.md)
+- [Rails 에러 메세지 모음](Rails-Errors.md)
