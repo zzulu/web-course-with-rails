@@ -1,4 +1,4 @@
-# Daily Notes
+# Web Course w/ Rails (Daily Notes)
 
 ## 1주차
 
