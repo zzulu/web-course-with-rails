@@ -1,5 +1,7 @@
 # Web Course w/ Rails (Daily Notes)
 
+학습자분들을 위한 수업 내용 요약입니다.
+
 ## 1주차
 
 - [18년 06월 05일 화](notes/180605.md)
